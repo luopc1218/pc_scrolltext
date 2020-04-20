@@ -1,4 +1,4 @@
-# pc_scrolltextarea
+# pc_scrolltext
 
 一个可自动滚动的文本组件 for vue.js
 
