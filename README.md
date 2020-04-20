@@ -2,6 +2,8 @@
 
 一个可自动滚动的文本组件 for vue.js
 
+ ![image](https://github.com/luopc1218/pc_scrolltext/blob/master/images/test.gif)
+
 ## 安装插件
 ```
 yarn add pc_scrolltext
