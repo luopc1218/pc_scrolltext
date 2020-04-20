@@ -22,9 +22,9 @@ Vue.use(ScrollText)
 //xxx.vue
 //需要提供基本样式(高/宽)
 //支持其他样式
-<l-scrollText style="width:xxx;height:xxx">
+<ScrollText style="width:xxx;height:xxx">
 (需要显示的内容)
-</l-scrollText>
+</ScrollText>
 ```
 ## 参数
 ```
