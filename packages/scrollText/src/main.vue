@@ -15,7 +15,7 @@
 
 <script>
     export default {
-        name: "l-scrollText",
+        name: "pc-scrollText",
         props: {
             //速度:越低越快
             speed: {

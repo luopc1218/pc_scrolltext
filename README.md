@@ -12,9 +12,9 @@ npm install pc_scrolltext --save
 ## 引入插件
 ```
 //main.js
-import ScrollText from "pc_scrolltext"
+import pcScrollText from "pc_scrolltext"
 import "pc_scrolltext/lib/pc_scrolltext.css"
-Vue.use(ScrollText)
+Vue.use(pcScrollText)
 ```
 
 ## 使用插件
@@ -22,9 +22,9 @@ Vue.use(ScrollText)
 //xxx.vue
 //需要提供基本样式(高/宽)
 //支持其他样式
-<ScrollText style="width:xxx;height:xxx">
+<pc-scrollText  style="width:xxx;height:xxx">
 (需要显示的内容)
-</ScrollText>
+</pc-scrollText >
 ```
 ## 参数
 ```
