@@ -5,7 +5,7 @@
 ## 安装插件
 ```
 yarn add pc_scrolltext
-npm install pc_scrolltext
+npm install pc_scrolltext --save
 ```
 ## 引入插件
 ```
